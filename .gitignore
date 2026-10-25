@@ -1,0 +1,15 @@
+build/
+build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+*.user
+*.user.*
+CMakeUserPresets.json
+
+.DS_Store
+Thumbs.db
+
+importedcontent/
